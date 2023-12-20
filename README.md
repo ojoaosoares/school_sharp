@@ -1,27 +1,26 @@
 # Frontend Mentor - School Sharp
 
-Este é um desafio proposto pela Frontend Mentor para criar um site para uma plataforma EAD.
+This is a challenge proposed by Frontend Mentor to create a website for an E-Learning platform.
 
-Você pode acessar o site hospedado no Netlify através do link abaixo:
+You can access the hosted site on Netlify through the following link:
 
 https://soares-school-sharp.netlify.app/
 
-# Estrutura do Projeto
+# Project Structure
 
-- O código-fonte está organizado em um diretório principal.
-- O desafio concentra-se na implementação de um site para uma plataforma EAD.
+- The source code is organized in a main directory.
+- The challenge focuses on implementing a website for an E-Learning platform.
 
-# Tecnologias Utilizadas
+# Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
-## Contato
+## Contact
 
 - [Linkedin](http://www.linkedin.com/in/ojo%C3%A3osoares)
 
-# Contribuições
+# Contributions
 
-- Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encontrar problemas, sinta-se à vontade para abrir uma issue ou um pull request.
-
+- Contributions are welcome! If you have suggestions for improvements or encounter issues, feel free to open an issue or a pull request.
